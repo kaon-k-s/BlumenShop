@@ -1,2 +1,4 @@
 # BlumenShop
-PHP, SQL. Login/Sign up, make order pages
+Flower Shop: Login/Sign up, make order pages
+
+PHP, SQL
